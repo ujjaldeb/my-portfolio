@@ -11,8 +11,12 @@ h1 {
     color: orange;
 }
 
-.top-banner {
+.flexible-container {
     display: flex;
+    margin-bottom: 10vh;
+}
+
+.top-banner {
     background: url('images/top-banner.png') no-repeat;
 }
 
@@ -36,3 +40,10 @@ h1 {
     margin-top: 10px;
 }
 
+.dream-big {
+    background: url('images/dream-bg.png') no-repeat right;
+}
+
+.dream-big .half{
+    
+}
